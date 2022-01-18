@@ -9,7 +9,7 @@ const about = {
   name: 'Angelo Kandah',
   role: 'Aspiring Front End Engineer',
   description:
-    'I am a graduate from University of California, Santa Cruz with a Bachelor of Science in Computer Science.',
+    'I graduated from University of California, Santa Cruz with a Bachelor of Science in Computer Science. I live in California and I am passionate about developing web applications in Javascript and React.',
   resume: 'https://drive.google.com/file/d/1Tae5SysAtoH50Ly7jSSiNmwCa3IllHV1/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/angelokandah/',
