@@ -2,7 +2,7 @@ const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://angelokandah.github.io/Portfolio/',
   title: 'AK.',
-}
+};
 
 const about = {
   // all the properties are optional - can be left empty or deleted
@@ -10,12 +10,13 @@ const about = {
   role: 'Aspiring Front End Engineer',
   description:
     'I graduated from University of California, Santa Cruz with a Bachelor of Science in Computer Science. I live in California and I am passionate about developing web applications in Javascript and React.',
-  resume: 'https://drive.google.com/file/d/1Tae5SysAtoH50Ly7jSSiNmwCa3IllHV1/view?usp=sharing',
+  resume:
+    'https://drive.google.com/file/d/1Tae5SysAtoH50Ly7jSSiNmwCa3IllHV1/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/angelokandah/',
     github: 'https://github.com/AngeloKandah',
   },
-}
+};
 
 const projects = [
   // projects can be added an removed
@@ -33,7 +34,8 @@ const projects = [
       'A landing page for the DuplicateTabCloser with mobile first in mind.',
     stack: ['React', 'Javascript', 'Tailwind'],
     sourceCode: 'https://github.com/AngeloKandah/DuplicateTabCloserLandingPage',
-    livePreview: 'https://angelokandah.github.io/DuplicateTabCloserLandingPage/',
+    livePreview:
+      'https://angelokandah.github.io/DuplicateTabCloserLandingPage/',
   },
   {
     name: 'Pokémon Egg Group Calculator',
@@ -43,7 +45,7 @@ const projects = [
     sourceCode: 'https://github.com/AngeloKandah/EggGroupChain',
     livePreview: 'https://angelokandah.github.io/EggGroupChain/',
   },
-]
+];
 
 const skills = [
   // skills can be added or removed
@@ -57,11 +59,11 @@ const skills = [
   'Git',
   'Jest',
   'Webpack',
-]
+];
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
   email: 'kandah.angelo@gmail.com',
-}
+};
 
-export { header, about, projects, skills, contact }
+export { header, about, projects, skills, contact };

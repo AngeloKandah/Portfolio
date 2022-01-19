@@ -1,4 +1,4 @@
-import './Footer.css'
+import './Footer.css';
 
 const Footer = () => (
   <footer className='footer'>
@@ -9,6 +9,6 @@ const Footer = () => (
       Template By Raj Shekhar
     </a>
   </footer>
-)
+);
 
-export default Footer
+export default Footer;
